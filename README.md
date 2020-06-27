@@ -1,5 +1,5 @@
 # music-classification
-Analysing music flies and classify them
+Analyzing music flies and classify them
 
 ## Tools
  * SoX (Sound Exchange)
