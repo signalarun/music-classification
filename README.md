@@ -10,7 +10,10 @@ Analyzing music flies and classify them
    - An open source graph generation library
  * Librosa
    - [Librosa](https://librosa.org/doc/latest/index.html) is a python package for music and audio analysis. It provides the building blocks necessary to create music information retrieval systems
+ * [python_speech_features](https://python-speech-features.readthedocs.io/en/latest/)
+   - This library provides common speech features for ASR including MFCCs and filterbank energies. 
      
 ## Info
  * [Acoustics of speech and hearing](https://www.phon.ucl.ac.uk/courses/spsci/acoustics/week1-10.pdf)
  * [Getting to know Mel Spectrogram](https://towardsdatascience.com/getting-to-know-the-mel-spectrogram-31bca3e2d9d0)
+ * [MFCC tutorial](http://www.practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/)
