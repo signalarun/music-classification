@@ -11,3 +11,4 @@ Analyzing music flies and classify them
      
 ## Info
  * [Acoustics of speech and hearing](https://www.phon.ucl.ac.uk/courses/spsci/acoustics/week1-10.pdf)
+ * [Getting to know Mel Spectrogram](https://towardsdatascience.com/getting-to-know-the-mel-spectrogram-31bca3e2d9d0)
