@@ -7,7 +7,9 @@ Analyzing music flies and classify them
      of computer audio files in to other formats. It can also apply various effects to these sound files, and, as an added bonus, SoX can play and record audio 
      files on most platforms.
  * Pylab 
-   - An open source graph generation library    
+   - An open source graph generation library
+ * Librosa
+   - [Librosa](https://librosa.org/doc/latest/index.html) is a python package for music and audio analysis. It provides the building blocks necessary to create music information retrieval systems
      
 ## Info
  * [Acoustics of speech and hearing](https://www.phon.ucl.ac.uk/courses/spsci/acoustics/week1-10.pdf)
