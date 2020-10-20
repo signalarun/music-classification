@@ -1,6 +1,9 @@
 # music-classification
 Analyzing music flies and classify them
 
+# Tutorials
+ * https://github.com/AllenDowney/ThinkDSP
+
 ## Tools
  * SoX (Sound Exchange)
    - The Swiss Army knife of sound processing programs.SoX is a cross-platform (Windows, Linux, MacOS X, etc.) command line utility that can convert various formats
