@@ -16,7 +16,9 @@ Analyzing music flies and classify them
  * Librosa
    - [Librosa](https://librosa.org/doc/latest/index.html) is a python package for music and audio analysis. It provides the building blocks necessary to create music information retrieval systems
  * [python_speech_features](https://python-speech-features.readthedocs.io/en/latest/)
-   - This library provides common speech features for ASR including MFCCs and filterbank energies. 
+   - This library provides common speech features for ASR including MFCCs and filterbank energies.
+ * [Essentia](https://essentia.upf.edu/index.html)
+   - Open-source library and tools for audio and music analysis, description and synthesis
      
 ## Info
  * [Acoustics of speech and hearing](https://www.phon.ucl.ac.uk/courses/spsci/acoustics/week1-10.pdf)
