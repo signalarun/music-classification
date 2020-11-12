@@ -3,6 +3,7 @@ Analyzing music flies and classify them
 
 # Tutorials
  * https://github.com/AllenDowney/ThinkDSP
+ * https://www.kdnuggets.com/2020/02/audio-data-analysis-deep-learning-python-part-1.html
 
 ## Tools
  * SoX (Sound Exchange)
