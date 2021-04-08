@@ -20,6 +20,10 @@ Analyzing music flies and classify them
    - This library provides common speech features for ASR including MFCCs and filterbank energies.
  * [Essentia](https://essentia.upf.edu/index.html)
    - Open-source library and tools for audio and music analysis, description and synthesis
+
+ * [DisVoice](https://disvoice.readthedocs.io/en/latest/)
+   - DisVoice is a python framework designed to compute features from speech files.
+     Disvoice computes glottal, phonation, articulation, prosody, phonological, and features representation learnig strategies using autoencders
      
 ## Info
  * [Acoustics of speech and hearing](https://www.phon.ucl.ac.uk/courses/spsci/acoustics/week1-10.pdf)
