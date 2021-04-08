@@ -1,4 +1,4 @@
-# music-classification
+# Music classification
 Analyzing music flies and classify them
 
 # Tutorials
