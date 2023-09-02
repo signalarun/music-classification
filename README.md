@@ -1,5 +1,5 @@
 # Music classification
-Analyzing music flies and classify them
+Analyzing music files and classify them
 
 # Tutorials
  * https://github.com/AllenDowney/ThinkDSP
@@ -23,7 +23,7 @@ Analyzing music flies and classify them
 
  * [DisVoice](https://disvoice.readthedocs.io/en/latest/)
    - DisVoice is a python framework designed to compute features from speech files.
-     Disvoice computes glottal, phonation, articulation, prosody, phonological, and features representation learnig strategies using autoencders
+     Disvoice computes glottal, phonation, articulation, prosody, phonological, and features representation learnig strategies using autoencoders
      
 ## Info
  * [Acoustics of speech and hearing](https://www.phon.ucl.ac.uk/courses/spsci/acoustics/week1-10.pdf)
